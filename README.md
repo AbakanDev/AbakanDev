@@ -37,14 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbakanDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Abakan's GitHub Stats" />
-</p>
-
----
-
 ### 📫 Get in touch
 
 - **Email:** abakandev@gmail.com
