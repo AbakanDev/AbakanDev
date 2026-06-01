@@ -13,7 +13,7 @@
 ### 🚀 About Me
 
 - 🔭 **Currently focusing on:** A 4-5 month intensive roadmap on System Integration, Linux Networking, and Cloud Infrastructure.
-- 🌱 **Currently learning:** Preparing for **LPIC-1 / LPIC-2** certifications and improving IT-specialized Japanese (targeting JLPT N3/N2).
+- 🌱 **Currently learning**: Linux System Administration (studying LPIC-1 & LPIC-2 curriculum) and improving IT-specialized Japanese (targeting JLPT N3/N2).
 - 🛠️ **Current projects:** 
   - Developing an epidemiological health monitoring Android app (Kotlin/IntelliJ IDEA) with a Node.js backend on Render and MySQL hosted on Aiven.
 
